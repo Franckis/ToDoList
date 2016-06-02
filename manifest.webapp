@@ -1,0 +1,20 @@
+{
+  "version": "0.5",
+  "name": "My Goals",
+  "description": "An awesome app that helps you achieve your goals.",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/app-icons/icon-16.png",
+    "48": "/app-icons/icon-48.png",
+    "60": "/app-icons/icon-60.png",
+    "90": "/app-icons/icon-90.png",
+    "120": "/app-icons/icon-120.png",
+    "128": "/app-icons/icon-128.png"
+  },
+  "developer": {
+    "name": "Mariot Tsitoara <mariot.tsitoara@gmail.com>",
+    "url": "https://about.me/mariot.tsitoara"
+  },
+  "chrome": {"navigation": true},
+  "default_locale": "en"
+}
